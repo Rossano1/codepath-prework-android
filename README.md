@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='(https://i.imgur.com/uLBQjNe.gif)' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/uLBQjNe.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
