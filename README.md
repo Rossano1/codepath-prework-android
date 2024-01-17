@@ -14,9 +14,6 @@ The following **required** functionality is completed:
 * [ ] Button displayed on screen
 * [ ] Toast with message appears when button is pressed 
 
-## Video Walkthrough
-
-## Video Walkthrough
 
 ## Video Walkthrough
 
