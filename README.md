@@ -16,9 +16,11 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+## Video Walkthrough
+
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/LlsV8Q4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe class="imgur-embed" width="100%" height="550" frameborder="0" src="https://imgur.com/embed/LlsV8Q4"></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Imgur](https://imgur.com/)
