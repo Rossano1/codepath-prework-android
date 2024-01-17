@@ -19,10 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/LlsV8Q4](https://imgur.com/wptB142)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/uLBQjNe' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Imgur](https://imgur.com/)
+
 
 
 
